@@ -1,3 +1,0 @@
-13-Jun-2022 16:56:42.000 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: contextInitialized()
-13-Jun-2022 16:56:42.000 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log SessionListener: contextInitialized()
-13-Jun-2022 16:56:42.001 信息 [localhost-startStop-1] org.apache.catalina.core.ApplicationContext.log ContextListener: attributeAdded('StockTicker', 'async.Stockticker@19e5020')
